@@ -21,6 +21,25 @@ CropWise is an innovative agricultural application 🚜 designed to revolutioniz
 4️⃣ **Easy-to-Use Interface:** User-friendly design for seamless navigation and effortless use. 🖥️👨‍🌾<br>
 
 ## When you enter into the project
+![](images/1.png)
+
+## Crop prediction
+![](images/2.png)
+
+## Result
+![](images/3.png)
+
+## Fertilizer Suggestions
+![](images/4.png)
+
+## Result
+![](images/5.png)
+
+## Plant Disease Detection
+![](images/6.png)
+
+## Result
+![](images/7.png)
 
 
 
