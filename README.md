@@ -15,10 +15,10 @@ CropWise is an innovative agricultural application 🚜 designed to revolutioniz
 
 ##  🌾 CropWise App: Key Features 🌾
 
-1️⃣ **Crop Recommendation:** Intelligent suggestions for suitable crops based on farm-specific factors and historical data. 🌱📊
-2️⃣ **Disease Plant Detection:** Advanced image recognition for real-time identification and diagnosis of plant diseases. 🌿🔍
-3️⃣ **Fertilizer Recommender:** Personalized fertilizer recommendations for efficient nutrient management. 💧🌿
-4️⃣ **Easy-to-Use Interface:** User-friendly design for seamless navigation and effortless use. 🖥️👨‍🌾
+1️⃣ **Crop Recommendation:** Intelligent suggestions for suitable crops based on farm-specific factors and historical data. 🌱📊 <br>
+2️⃣ **Disease Plant Detection:** Advanced image recognition for real-time identification and diagnosis of plant diseases. 🌿🔍<br>
+3️⃣ **Fertilizer Recommender:** Personalized fertilizer recommendations for efficient nutrient management. 💧🌿<br>
+4️⃣ **Easy-to-Use Interface:** User-friendly design for seamless navigation and effortless use. 🖥️👨‍🌾<br>
 
 ## When you enter into the project
 
